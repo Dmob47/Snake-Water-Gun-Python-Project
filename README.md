@@ -1,2 +1,2 @@
 # Snake-Water-Gun-Python-Project
-A simple snake water gun which you can play with computer
+A simple snake water gun game which you can play with computer
